@@ -9,7 +9,7 @@ export const bride = () => {
                    <img src=${data.image} alt="${data.name} animation">
                    <figcaption>${data.name}</figcaption>
               </figure>
-              <p>${data.child} <br>dari <br> Bapak ${data.father} & Ibu ${data.mother} Alamat ${data.alamat}</p>
+              <p>${data.child} <br>dari <br> Bapak ${data.father} & Ibu ${data.mother} <br>Alamat ${data.alamat}</p>
               <span style="display: ${data.id === 2 ? 'none' : 'block'}">&</span>
         </li>`
     )
