@@ -23,9 +23,9 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
+            year: '2025',
+            month: 'Desember',
+            date: '04',
             day: 'Kamis',
             hours: {
                 start: '08.00',
@@ -33,16 +33,16 @@ export const data = {
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'Desember',
+            date: '07',
+            day: 'Minggu',
             hours: {
-                start: '11.00',
+                start: '08.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Dsn. Tanah putih - Asemjaran'
     },
 
     link: {
@@ -76,16 +76,11 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'Abd. Rosid',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '1090021211826'
         },
-        {
-            id: 2,
-            name: 'Ipsum Lorem',
-            icon: './src/assets/images/bri.png',
-            rekening: '12345678'
-        },
+
     ],
 
     audio: './src/assets/audio/wedding.mp3',
