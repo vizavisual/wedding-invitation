@@ -53,23 +53,35 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: ''
+            image: './src/assets/images/1.jpg'
         },
         {
             id: 2,
-            image: ''
+            image: './src/assets/images/2.jpg'
         },
         {
             id: 3,
-            image: ''
+            image: './src/assets/images/3.jpg'
         },
         {
             id: 4,
-            image: ''
+            image: './src/assets/images/4.jpg'
         },
         {
             id: 5,
-            image: ''
+            image: './src/assets/images/5.jpg'
+        },
+                {
+            id: 6,
+            image: './src/assets/images/6.jpg'
+        },
+                {
+            id: 7,
+            image: './src/assets/images/7.jpg'
+        },
+                {
+            id: 8,
+            image: './src/assets/images/8.jpg'
         }
     ],
 
