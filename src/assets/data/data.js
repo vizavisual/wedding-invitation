@@ -6,7 +6,7 @@ export const data = {
             child: 'Putra',
             father: 'H. Sumarto',
             mother: 'Hj. Hosniyah',
-            alamat1: 'Dsn. Ram Aram, Masaran, Banyuates, Sampang',
+            alamat: 'Dsn. Ram Aram, Masaran, Banyuates, Sampang',
             image: './src/assets/images/cowo.png'
         },
         P: {
@@ -15,7 +15,7 @@ export const data = {
             child: 'Putri',
             father: 'Moh. Sholeh (alm)',
             mother: 'Rahma',
-            alamat2: 'Dsn. Tanah Putih, Asemjaran, Banyuates, Sampang',
+            alamat: 'Dsn. Tanah Putih, Asemjaran, Banyuates, Sampang',
             image: './src/assets/images/cewe.png'
         },
         couple: './src/assets/images/couple.png'
